@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>欢迎来到我的blog</title>
+    <link>https://darkfeather-1.github.io/algolia.json</link>
+    <description>Recent content from 欢迎来到我的blog</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    
+    <managingEditor>darkfeather0401@gmail.com (darkfeather)</managingEditor>
+    <webMaster>darkfeather0401@gmail.com (darkfeather)</webMaster>
+    
+    <copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright>
+    
+    <lastBuildDate>Sun, 13 Sep 2026 11:10:02 +0800</lastBuildDate>
+    
+    
+    <atom:link href="https://darkfeather-1.github.io/index.xml" rel="self" type="application/rss&#43;xml" />
+    
+
+    
+    
+
+    <item>
+      <title>My First Post</title>
+      <link>https://darkfeather-1.github.io/posts/my-first-post/</link>
+      <pubDate>Sun, 13 Sep 2026 11:10:02 &#43;0800</pubDate>
+      <author>darkfeather0401@gmail.com (darkfeather)</author>
+      <guid>https://darkfeather-1.github.io/posts/my-first-post/</guid>
+      <description>
+        <![CDATA[<h1>My First Post</h1><p>作者：darkfeather（darkfeather0401@gmail.com）</p>
+        
+          <p>欢迎来到我的博客，我的第一篇文章。</p>
+<p>一路跌跌撞撞</p>
+        
+        <hr><p>本文2026-09-13首发于<a href='https://darkfeather-1.github.io/'>欢迎来到我的blog</a>，最后修改于2026-09-13</p>]]>
+      </description>
+      
+    </item>
+    
+  </channel>
+</rss>
