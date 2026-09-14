@@ -1,7 +1,7 @@
 +++
 date = '2026-09-13T11:10:02+08:00'
 draft = false
-title = 'My First Post'
+title = '我的第一篇文章'
 
 languageCode = 'zh-cn'
 

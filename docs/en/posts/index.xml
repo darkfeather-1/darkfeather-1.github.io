@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome on Welcome to my blog.</title>
-    <link>https://darkfeather-1.github.io/en/algolia.json</link>
+    <title>Posts on Welcome to my blog.</title>
+    <link>https://darkfeather-1.github.io/en/posts/</link>
     <description>Recent content from Welcome to my blog.</description>
     <generator>Hugo</generator>
     <language>en</language>
@@ -15,7 +15,7 @@
     <lastBuildDate>Mon, 14 Sep 2026 00:00:00 +0000</lastBuildDate>
     
     
-    <atom:link href="https://darkfeather-1.github.io/en/index.xml" rel="self" type="application/rss&#43;xml" />
+    <atom:link href="https://darkfeather-1.github.io/en/posts/index.xml" rel="self" type="application/rss&#43;xml" />
     
 
     
