@@ -1,11 +1,5 @@
 [
   {
-    "objectID": "793e12efbf339d9fc5dbc2800c519fce9275ef7c",
-    "permalink": "/en/posts/test/",
-    "title": "Test","content": "","date": "2026-09-14 00:00:00",
-    "updated": "2026-09-14 00:00:00"
-  }, 
-  {
     "objectID": "1e4858c7dc1bb628c846bde0c67d1a406f786520",
     "permalink": "/en/posts/my-first-post/",
     "title": "My First Post","content": "Welcome to my blog, my first post.\nAfter stumbling along the way, I finally got my blog built. Let me share some thoughts. AI is just too useful. For a complete beginner with zero programming background like me, I really couldn’t have built a personal blog on my own without the help of Teacher DeepSeek. From feeling dizzy and overwhelmed when I first looked at the tutorial, to gradually understanding the process (copying a pro’s webpage framework from Hugo and then quietly making it my own, and then deploying the webpage to GitHub so everyone could see it), and finally leaving the entire deployment part to Teacher D to teach me how to type cmd commands (but please forgive me, I really couldn’t understand it).\nAnyway, I managed to finish this blog in a hurry. Let me record this webpage that I made by copying and imitating. Maybe when I come back to look at it in the future, I’ll feel really sentimental (I’m a guy who’s going to become a programming big shot! Hehe). Of course, I’ve also seen many polished blog pages by pros, and they can even play mini-games. After I learn programming, I’ll come back and further improve my blog too.\n","date": "2026-09-13 11:10:02",
