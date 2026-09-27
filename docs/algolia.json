@@ -2,7 +2,7 @@
   {
     "objectID": "fba1d3a0ed3da86cd2de96ee4122506e47fd256b",
     "permalink": "/posts/basicinstructions/",
-    "title": "一些基础指令的记录","content": " 记录一下常用的一些指令 Blog相关 创建新文章hugo new content \u0026lt;路径/文件名\u0026gt;.md\n将本地Blog上传至Github仓库（hugo专属）\n生成新文件并清除旧文件：hugo --cleanDestinationDir -d docs 添加所有修改到暂存区：git add . 提交到本地 Git 仓库：git commit -m \u0026quot;更新说明\u0026quot; 推送到 GitHub 远程仓库 git push 常用快捷键 Ctrl + S（保存） Ctrl + Shift + V（Markdown 预览） Ctrl + Z（撤销） ","date": "2026-09-27 19:23:45",
+    "title": "一些基础指令的记录","content": " 记录一下常用的一些指令 Blog相关 创建新文章hugo new content \u0026lt;路径/文件名\u0026gt;.md\n本地预览Bloghugo server -D\n将本地Blog上传至Github仓库（hugo专属）\n生成新文件并清除旧文件：hugo --cleanDestinationDir -d docs 添加所有修改到暂存区：git add . 提交到本地 Git 仓库：git commit -m \u0026quot;更新说明\u0026quot; 推送到 GitHub 远程仓库 git push 常用快捷键 Ctrl + S（保存） Ctrl + Shift + V（Markdown 预览） Ctrl + Z（撤销） ","date": "2026-09-27 19:23:45",
     "updated": "2026-09-27 19:23:45"
   }, 
   {

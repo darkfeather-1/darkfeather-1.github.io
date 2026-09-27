@@ -10,6 +10,8 @@ title = '一些基础指令的记录'
 
 - 创建新文章```hugo new content <路径/文件名>.md```
 
+- 本地预览Blog```hugo server -D```
+
 - 将本地Blog上传至Github仓库（hugo专属）
 1. 生成新文件并清除旧文件：```hugo --cleanDestinationDir -d docs```
 2. 添加所有修改到暂存区：```git add .```
