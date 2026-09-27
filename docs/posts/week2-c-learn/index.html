@@ -184,7 +184,19 @@
       data-aos="fade-up"
     ><div class="sidebar-toc-sidebar"><h3 class="toc-title">文章目录</h3>
 <div class="sidebar-toc-wrapper toc-div-class">
-  <nav id="TableOfContents"></nav>
+  <nav id="TableOfContents">
+  <ol>
+    <li>
+      <ol>
+        <li><a href="#c语言学习梦开始的地方">C语言学习梦开始的地方</a></li>
+        <li><a href="#变量的简单学习">变量的简单学习</a></li>
+        <li><a href="#运算符待深入学习">运算符（待深入学习）</a></li>
+        <li><a href="#输入输出">输入输出</a></li>
+      </ol>
+    </li>
+    <li><a href="#继续学习ing">继续学习ing……</a></li>
+  </ol>
+</nav>
 </div></div>
           <div class="sidebar-common-sidebar hidden"><div class="sidebar-author">
   <img
@@ -261,7 +273,37 @@
       >2026-09-27</time
     >
   </span></div>
-</div><div class="hr-line"></div><div class="e-content article-entry" itemprop="articleBody"></div>
+</div><div class="hr-line"></div><div class="e-content article-entry" itemprop="articleBody"><p>懵懵懂懂地跟着学长给的网站10.10.45.96开始一点点从基础学习C语言，先是下了VS Code，然后跟着教程一步步完成了C/C++和gcc的配置。</p>
+<h2 id="c语言学习梦开始的地方">
+<a class="header-anchor" href="#c%e8%af%ad%e8%a8%80%e5%ad%a6%e4%b9%a0%e6%a2%a6%e5%bc%80%e5%a7%8b%e7%9a%84%e5%9c%b0%e6%96%b9"></a>
+C语言学习梦开始的地方
+</h2><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-c" data-lang="c"><span class="line"><span class="cl"><span class="cp">#include</span> <span class="cpf">&lt;stdio.h&gt;</span><span class="cp">
+</span></span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="kt">int</span> <span class="nf">main</span><span class="p">()</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="nf">printf</span><span class="p">(</span><span class="s">&#34;Hello, World!</span><span class="se">\n</span><span class="s">&#34;</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">    <span class="k">return</span> <span class="mi">0</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span></code></pre></div><p>在我的理解中<code>#include &lt;stdio.h&gt;</code>相当于告诉电脑在执行编程命令之前先去取一个工具包。</p>
+<p>然后<code>int main(){}</code>是主函数，也就是电脑正式开始工作的开始。下面的<code>printf(&quot;Hello, World!\n&quot;);</code>也就是电脑工作的指令，意为输出“Hello, World!”这一串字符，其中\n则为换行的意思。</p>
+<p>最后基本在所有函数的最后都有<code>return 0;</code>，我的理解是这个是函数执行完毕之后的返还数据，如果是0则程序运行成功，非0则反之。！！！对了不要忘记在每行代码后加“;”啊！</p>
+<h2 id="变量的简单学习">
+<a class="header-anchor" href="#%e5%8f%98%e9%87%8f%e7%9a%84%e7%ae%80%e5%8d%95%e5%ad%a6%e4%b9%a0"></a>
+变量的简单学习
+</h2><p>其次了解了一些C语言中的数据类型如：整型（int）、长长整型（long long）、字符型（char）、浮点型（float）和双精度浮点型（double），并运用<code>type variable_name = value;</code>进行变量定义（type 表示变量的数据类型，variable_name 是变量的名称，value 是变量的初始值）</p>
+<p>以及关于变量中的左值和右值，个人理解左值和指针很相似是数据存放的地址，而右值就是数据本身。</p>
+<h2 id="运算符待深入学习">
+<a class="header-anchor" href="#%e8%bf%90%e7%ae%97%e7%ac%a6%e5%be%85%e6%b7%b1%e5%85%a5%e5%ad%a6%e4%b9%a0"></a>
+运算符（待深入学习）
+</h2><p>运算符类型有点太多了有算术运算符、关系运算符、逻辑运算符、位运算符、赋值运算符、杂项运算符，其中位运算符、赋值运算符中有关位的部分还不是很清楚（等待深入学习），杂项运算符也是。</p>
+<h2 id="输入输出">
+<a class="header-anchor" href="#%e8%be%93%e5%85%a5%e8%be%93%e5%87%ba"></a>
+输入输出
+</h2><p>有关这一部分仅仅简单学习了输入函数<code>scanf(&quot;%d&quot;, &amp;a);</code>,其中&amp;涉及指针意为将输入的数据存到原来a的地址。</p>
+<p>以及输出函数<code>printf(&quot;Hello, World!\n&quot;);</code>，进行文本的输出。</p>
+<h1 id="继续学习ing">
+<a class="header-anchor" href="#%e7%bb%a7%e7%bb%ad%e5%ad%a6%e4%b9%a0ing"></a>
+继续学习ing……
+</h1></div>
     <footer class="article-footer"><ul class="article-category-list"></ul>
 <ul class="article-tag-list" itemprop="keywords"></ul>
 </footer>
@@ -314,10 +356,10 @@
         >
       </div><div>
         <span class="icon-brush"
-          >&nbsp;541</span
+          >&nbsp;1.3k</span
         >
         &nbsp;|&nbsp;
-        <span class="icon-coffee">&nbsp;00:02</span>
+        <span class="icon-coffee">&nbsp;00:04</span>
       </div><div>
         <span class="icon-eye"></span>
         <span id="busuanzi_container_site_pv"
@@ -341,7 +383,19 @@
       </div><nav id="mobile-nav" aria-label="Mobile navigation">
   <div class="sidebar-wrap"><div class="sidebar-toc-sidebar"><h3 class="toc-title">文章目录</h3>
 <div class="sidebar-toc-wrapper toc-div-class">
-  <nav id="TableOfContents"></nav>
+  <nav id="TableOfContents">
+  <ol>
+    <li>
+      <ol>
+        <li><a href="#c语言学习梦开始的地方">C语言学习梦开始的地方</a></li>
+        <li><a href="#变量的简单学习">变量的简单学习</a></li>
+        <li><a href="#运算符待深入学习">运算符（待深入学习）</a></li>
+        <li><a href="#输入输出">输入输出</a></li>
+      </ol>
+    </li>
+    <li><a href="#继续学习ing">继续学习ing……</a></li>
+  </ol>
+</nav>
 </div></div>
         <div class="sidebar-common-sidebar hidden"><div class="sidebar-author">
   <img
@@ -447,7 +501,7 @@
           author: "darkfeather",
           title: "第二周C语言学习",
           url: "https:\/\/darkfeather-1.github.io\/posts\/week2-c-learn\/",
-          description: "",
+          description: "懵懵懂懂地跟着学长给的网站10.10.45.96开始一点点从基础学习C语言，先是下了VS Code，然后跟着教程一步步完成了C\/C\u002b\u002b和gcc的配置。\n",
           cover: "https:\/\/darkfeather-1.github.io\/images\/banner.webp",
         };
       </script><script src="/js/insert_highlight.js" integrity="" crossorigin="anonymous" data-pjax ></script><script src="/js/tabs.js" integrity="" crossorigin="anonymous" data-pjax defer></script><script type="module" data-pjax>const PhotoSwipeLightbox = (await safeImport("https:\/\/npm.webcache.cn\/photoswipe@5.4.4\/dist\/photoswipe-lightbox.esm.min.js", "sha384-DiL6M\/gG\u002bwmTxmCRZyD1zee6lIhawn5TGvED0FOh7fXcN9B0aZ9dexSF\/N6lrZi\/")).default;const initPswp = (gallery, children) => {
