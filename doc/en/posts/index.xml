@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Welcome to my blog.</title>
+    <link>https://darkfeather-1.github.io/en/posts/</link>
+    <description>Recent content from Welcome to my blog.</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    
+    <managingEditor>darkfeather0401@gmail.com (darkfeather)</managingEditor>
+    <webMaster>darkfeather0401@gmail.com (darkfeather)</webMaster>
+    
+    <copyright>All articles on this blog are licensed under the BY-NC-SA license agreement unless otherwise stated. Please indicate the source when reprinting!</copyright>
+    
+    <lastBuildDate>Sun, 13 Sep 2026 11:10:02 +0800</lastBuildDate>
+    
+    
+    <atom:link href="https://darkfeather-1.github.io/en/posts/index.xml" rel="self" type="application/rss&#43;xml" />
+    
+
+    
+    
+
+    <item>
+      <title>My First Post</title>
+      <link>https://darkfeather-1.github.io/en/posts/my-first-post/</link>
+      <pubDate>Sun, 13 Sep 2026 11:10:02 &#43;0800</pubDate>
+      <author>darkfeather0401@gmail.com (darkfeather)</author>
+      <guid>https://darkfeather-1.github.io/en/posts/my-first-post/</guid>
+      <description>
+        <![CDATA[<h1>My First Post</h1><p>Author: darkfeather(darkfeather0401@gmail.com)</p>
+        
+          <p>Welcome to my blog, my first post.</p>
+<p>After stumbling along the way, I finally got my blog built. Let me share some thoughts. AI is just too useful. For a complete beginner with zero programming background like me, I really couldn’t have built a personal blog on my own without the help of Teacher DeepSeek. From feeling dizzy and overwhelmed when I first looked at the tutorial, to gradually understanding the process (copying a pro’s webpage framework from Hugo and then quietly making it my own, and then deploying the webpage to GitHub so everyone could see it), and finally leaving the entire deployment part to Teacher D to teach me how to type cmd commands (but please forgive me, I really couldn’t understand it).</p>
+        
+        <hr><p>Published on 2026-09-13 at <a href='https://darkfeather-1.github.io/'>Welcome to my blog.</a>, last modified on 2026-09-13</p>]]>
+      </description>
+      
+    </item>
+    
+  </channel>
+</rss>

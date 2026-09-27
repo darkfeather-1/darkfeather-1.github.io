@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ようこそ on 私のブログへようこそ。</title>
+    <link>https://darkfeather-1.github.io/ja/algolia.json</link>
+    <description>Recent content from 私のブログへようこそ。</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    
+    <managingEditor>darkfeather0401@gmail.com (darkfeather)</managingEditor>
+    <webMaster>darkfeather0401@gmail.com (darkfeather)</webMaster>
+    
+    <copyright>本ブログのすべての文書は、特に指定されていない限り、BY-NC-SAライセンスに従っています。引用の際は出典を明記してください！</copyright>
+    
+    <lastBuildDate>Sun, 13 Sep 2026 11:10:02 +0800</lastBuildDate>
+    
+    
+    <atom:link href="https://darkfeather-1.github.io/ja/index.xml" rel="self" type="application/rss&#43;xml" />
+    
+
+    
+    
+
+    <item>
+      <title>私の最初の記事。</title>
+      <link>https://darkfeather-1.github.io/ja/posts/my-first-post/</link>
+      <pubDate>Sun, 13 Sep 2026 11:10:02 &#43;0800</pubDate>
+      <author>darkfeather0401@gmail.com (darkfeather)</author>
+      <guid>https://darkfeather-1.github.io/ja/posts/my-first-post/</guid>
+      <description>
+        <![CDATA[<h1>私の最初の記事。</h1><p>著者: darkfeather(darkfeather0401@gmail.com)</p>
+        
+          <p>私のブログへようこそ。これが私の最初の記事です。</p>
+<p>七転八倒しながら、ようやく自分のブログを構築し終えました。感想を少し書きます。AIはやっぱり便利すぎます。プログラミング完全ゼロ初心者の僕にとって、DeepSeek先生の助けがなければ、個人ブログの作成を一人でやり遂げることは本当にできませんでした。チュートリアルを初めて見たときは頭がクラクラしていましたが、その後少しずつ流れを理解していきました（Hugoで凄い人のWebページの枠組みをそのまま持ってきて、こっそり自分のものにし、さらにそのページをGitHubにデプロイしてみんなに見てもらえるようにしました）。そして最後のデプロイ部分は全部D先生にcmdコマンドの打ち方を教えてもらいました（でも、本当に理解できなかったのは許してください）。</p>
+        
+        <hr><p>この記事は2026-09-13に<a href='https://darkfeather-1.github.io/'>私のブログへようこそ。</a>で公開され、最終更新日は2026-09-13です</p>]]>
+      </description>
+      
+    </item>
+    
+  </channel>
+</rss>
