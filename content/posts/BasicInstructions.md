@@ -22,3 +22,8 @@ title = '一些基础指令的记录'
 - Ctrl + S（保存）
 - Ctrl + Shift + V（Markdown 预览）
 - Ctrl + Z（撤销）
+
+### C相关
+- 运行编译好的C代码
+1. 编译代码```gcc 文件名.c -o 文件名.exe```
+2. 运行程序```.\文件名.exe```
