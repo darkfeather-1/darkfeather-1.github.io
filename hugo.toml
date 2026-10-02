@@ -11,23 +11,7 @@ hasCJKLanguage = 'true'
 title = '欢迎来到我的博客'
 author = 'darkfeather'
 
-[languages.en]
-contentDir = "content/en"
-languageCode = 'en'
-languageName = 'English'
-weight = 2
-hasCJKLanguage = 'true'
-title = 'Welcome to my blog.'
-author = 'darkfeather'
 
-[languages.ja]
-contentDir = "content/ja"
-languageCode = 'ja'
-languageName = '日本語'
-weight = 3
-hasCJKLanguage = 'true'
-title = '私のブログへようこそ。'                        # 自己编辑
-author = 'darkfeather'                                     # 自己编辑
 
 [markup.highlight]
 guessSyntax = 'true'
