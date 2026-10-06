@@ -2,7 +2,7 @@
   {
     "objectID": "fba1d3a0ed3da86cd2de96ee4122506e47fd256b",
     "permalink": "/posts/basicinstructions/",
-    "title": "一些基础指令的记录","content": " 记录一下常用的一些指令 Blog相关 创建新文章hugo new content \u0026lt;路径/文件名\u0026gt;.md\n本地预览Bloghugo server -D\n将本地Blog上传至Github仓库（hugo专属）\n生成新文件并清除旧文件：hugo --cleanDestinationDir -d docs 添加所有修改到暂存区：git add . 提交到本地 Git 仓库：git commit -m \u0026quot;更新说明\u0026quot; 推送到 GitHub 远程仓库 git push 常用快捷键 Ctrl + S（保存） Ctrl + Shift + V（Markdown 预览） Ctrl + Z（撤销） C相关 运行编译好的C代码 编译代码gcc 文件名.c -o 文件名.exe 运行程序.\\文件名.exe ","date": "2026-09-27 19:23:45",
+    "title": "基础指令","content": " 记录一下常用的一些东西 Blog相关 创建新文章hugo new content \u0026amp;lt;路径/文件名\u0026amp;gt;.md\n本地预览Bloghugo server -D\n将本地Blog上传至Github仓库（hugo专属）\n生成新文件并清除旧文件：hugo --cleanDestinationDir -d docs 添加所有修改到暂存区：git add . 提交到本地 Git 仓库：git commit -m \u0026amp;quot;更新说明\u0026amp;quot; 推送到 GitHub 远程仓库 git push 常用快捷键 Ctrl + S（保存） Ctrl + Shift + V（Markdown 预览） Ctrl + Z（撤销） C相关 运行编译好的C代码 编译代码gcc 文件名.c -o 文件名.exe 运行程序.\\文件名.exe Markdown相关 Ctrl + Shift + V（全屏预览Markdown效果） Ctrl + K 松开后 V（侧边预览Markdown效果） 常用搜索引擎的搜索语法 序号 语法 语法说明 示例 示例说明 1 + 同 AND，搜索包含多个关键词的结果 搜索 + 引擎 搜索包含【搜索】和【引擎】两个词的页面 2 OR 或者，搜索包含任一关键词的结果 搜索 OR 引擎 搜索包含【搜索】或【引擎】两个词的页面 3 - 减号，排除包含减号后面词的页面 搜索引擎 -百度 搜索不包括【百度】的【搜索引擎】的页面 4 \u0026amp;quot;\u0026amp;quot; 双引号，精确匹配短语 \u0026amp;quot;搜索引擎\u0026amp;quot; 精确匹配【搜索引擎】这个关键词的页面 5 * 星号，通配符，模糊搜索，星号代替某个字 搜*引擎 星号可以为任何字，例如【搜索引擎】或【搜索引擎】 6 @ 在用于搜索社交媒体的字词前加上 @ trump @twitter 搜索 trump 的 Twitter 相关内容 7 $ 在数字前加上 $ 搜索特定价格 camera $400 搜索价格为 400$ 的 camera 8 # 搜索 # 标签 #throwbackthursday 搜索标签 throwbackthursday 9 .. 两个点，在两个数字之间加上 ..，在数字范围内执行搜索 camera 500..1000 搜索价格在 500 到 1000 之间的 camera 10 filetype: 搜索某一种文件类 …","date": "2026-09-27 19:23:45",
     "updated": "2026-09-27 19:23:45"
   }, 
   {
